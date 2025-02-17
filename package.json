@@ -1,0 +1,19 @@
+{
+  "name": "datastructjs",
+  "version": "1.0.0",
+  "description": "Data structures library for javascript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahilsaxena9711/datastructjs.git"
+  },
+  "author": "Sahil Saxena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sahilsaxena9711/datastructjs/issues"
+  },
+  "homepage": "https://github.com/Sahilsaxena9711/datastructjs#readme"
+}
